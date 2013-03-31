@@ -12,7 +12,7 @@ For Redmine 2.0.x
     $ cd {REDMINE_ROOT}
     $ git clone git://github.com/pharmazone/redmine_charts2 plugins/redmine_charts2
 
-For Redmine 2.1.x
+For Redmine 2.1.x - 2.3.x
 
     $ cd {REDMINE_ROOT}
     $ git clone git://github.com/pharmazone/redmine_charts2 plugins/redmine_charts2
