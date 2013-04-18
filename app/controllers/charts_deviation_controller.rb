@@ -10,7 +10,7 @@ class ChartsDeviationController < ChartsController
     done_ratios = ChartDoneRatio.get_aggregation_for_issue(@conditions)
 
     rows.sort! do |row1, row2|
-      row1.group_id <=> row2.group_id
+      row1.group_id.to_i <=> row2.group_id.to_i
     end
 
     labels = []
