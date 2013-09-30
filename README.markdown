@@ -49,6 +49,7 @@ Run Redmine and have a fun!
 - da by Jakob Skjerning
 - de by Bernd Engelsing
 - sv by Martin Bagge
+- bg by [Ivan Cenov](https://github.com/jwalkerbg) 
 
 Thanks for the contribution. 
 
